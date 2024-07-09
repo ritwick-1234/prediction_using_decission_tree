@@ -1,6 +1,6 @@
 Prediction using decission tree .Maximum accuracy coming out to be 78 % approximately tuning the hyperparameters of decission_tree.
 
-
+Link of the application - https://firstproject-ne95cbrguuxejk8kbqjvtf.streamlit.app/
 
 
 
