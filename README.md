@@ -1,4 +1,4 @@
-Prediction using decission tree .Accuracy coming out to be 78 % approximately tuning the hyperparameters of decission_tree.
+Prediction using decission tree .Maximum accuracy coming out to be 78 % approximately tuning the hyperparameters of decission_tree.
 
 
 
